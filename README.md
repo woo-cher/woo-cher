@@ -20,11 +20,12 @@
   
 ### ⭐ ME ⭐
 
-![woo-cher's github stats](https://github-readme-stats.vercel.app/api?username=woo-cher&show_icons=true&include_all_commits=true&count_private=true&show_owner=true)
+![woo-cher's github stats](https://github-readme-stats.vercel.app/api?username=woo-cher&show_icons=true&include_all_commits=true&count_private=true&show_owner=true&hide=prs)
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=woo-cher&layout=compact&hide=scss)
 
-[![NOTION](https://img.shields.io/badge/nothion-000000?style=for-the-badge&logo=Notion&logoColor=white)](https://lminggvick.notion.site/Woocheol-Leem-e1b3a8e1c97849a8b71b7820c2109ed0) [![PROGRAMMERS](https://img.shields.io/badge/programmers-000050?style=for-the-badge&logo=Codio&logoColor=white)](https://programmers.co.kr/job_profiles/public_setting)
+[![NOTION](https://img.shields.io/badge/nothion-000000?style=for-the-badge&logo=Notion&logoColor=white)](https://lminggvick.notion.site/Woocheol-Leem-e1b3a8e1c97849a8b71b7820c2109ed0)
+[![PROGRAMMERS](https://img.shields.io/badge/programmers-000050?style=for-the-badge&logo=Codio&logoColor=white)](https://programmers.co.kr/job_profiles/public_setting)
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=FFD133&height=300&section=footer&text=&fontSize=90)
 
